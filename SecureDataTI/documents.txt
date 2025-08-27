@@ -1,0 +1,4 @@
+5
+DOC001|Manual do Sistema|lorem ipsum lorem ipsum lorem ipsum...|admin
+DOC002|Relatório Mensal|Lorem ipsum Lorem ipsum Lorem ipsum....|editor
+DOC003|Política de Segurança|Lorem ipsum Lorem ipsum Lorem ipsum....|admin
